@@ -1,7 +1,7 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+
 [https://elstec.cn/archives/20210821](https://elstec.cn/archives/20210821)
-[https://elstec.cn/archives/20210821](https://elstec.cn/archives/20210821)
-https://elstec.cn/archives/20210821
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
